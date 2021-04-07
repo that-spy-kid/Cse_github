@@ -4,12 +4,12 @@
 ## and enthusiastic in competitive programming and web development skill sets
 ### for more info about me check out my github profile...☺☺☺
 # My Languages
-- c programming
-- c++ programming
-- java programming
+- Problem Solving programming In C
+- C++ programming in OOPS Concept
+- Java programming In OOPS concept
 <img src ="https://media.giphy.com/media/g06HKnMmtK1aXurndU/source.gif">
 
-## Insert Table
+## Table
 
 |NAME|EMAIL|MOBILE|PROFESSION|LOACATION|
 |----|-----|------|----------|----------|
